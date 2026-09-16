@@ -1,0 +1,5 @@
+.container { max-width: 600px; margin: 2rem auto; font-family: sans-serif; }
+.erro { color: white; background-color: #d32f2f; padding: 1rem; border-radius: 4px; }
+.lista-recados { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1rem; }
+.cartao-recado { border: 1px solid #ddd; padding: 1rem; border-radius: 8px; background: #f9f9f9; }
+.cartao-recado strong { color: #2563eb; }
